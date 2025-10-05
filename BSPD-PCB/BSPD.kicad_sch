@@ -6510,7 +6510,7 @@
 	)
 	(global_label "Shutdown Out"
 		(shape output)
-		(at 158.75 179.07 0)
+		(at 158.75 176.53 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6520,7 +6520,7 @@
 		)
 		(uuid "9478c106-c736-454c-9f7a-e272f8d4a118")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 174.9187 179.07 0)
+			(at 174.9187 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6598,7 +6598,7 @@
 	)
 	(global_label "Shutdown In"
 		(shape input)
-		(at 158.75 176.53 0)
+		(at 158.75 179.07 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6608,7 +6608,7 @@
 		)
 		(uuid "e74b1418-6b39-43f2-bf79-48dddbc1993b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 173.4673 176.53 0)
+			(at 173.4673 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
