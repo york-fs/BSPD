@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.5
+          "min_clearance": 0.3
         }
       },
       "diff_pair_dimensions": [
@@ -779,6 +779,14 @@
     [
       "7083cad8-bf03-4cd1-b150-15749ab19e59",
       "Root"
+    ],
+    [
+      "d76438ec-f69b-4474-ad85-44a10ce5d54b",
+      "PWR Comparator"
+    ],
+    [
+      "410f91e8-f84a-439c-b5a0-14cdafa008d5",
+      "Brk Comparator"
     ]
   ],
   "text_variables": {}
