@@ -1,5 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "MyLibrary")(type "KiCad")(uri "${KIPRJMOD}/MyLibrary.kicad_sym")(options "")(descr ""))
-  (lib (name "bt401")(type "KiCad")(uri "C:/Users/joshb/Documents/3d Files/Pip Player/Pip-Player/bt401.kicad_sym")(options "")(descr ""))
-)
